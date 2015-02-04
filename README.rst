@@ -29,9 +29,11 @@ Send email to your address
 
 $ ./manage.py sendmail -e test@example.com This is a test message
 
+If you need a cheap, simple and efficient way to quickly test the quality of your own newsletters, try `Mail Tester <http://www.mail-tester.com>`_.
+
 Changelog
 =========
-The changelog can be found at `repo's release notes <https://github.com/satyrius/django_mail_tester/releases>`_
+The changelog can be found at `repo's release notes <https://github.com/satyrius/django-mail-tester/releases>`_
 
 Contributing
 ============
